@@ -244,8 +244,6 @@ export function Level({
     },
     [ count, types ])
 
-    console.log(blocks)
-
     return <>
         <BlockStart position={ [ 0, 0, 0 ] }/>
         {
